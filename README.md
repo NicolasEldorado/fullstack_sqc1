@@ -1,5 +1,5 @@
 # Residência fullstack 5.0 
-## Segundas e quartas
+## Segundas e quartas (Canoas - Manhã)
 ---
 
 ### Links
